@@ -17,17 +17,7 @@ This repository contains various machine learning projects implemented using Pyt
    - **Dataset**: The dataset, given in the `winequality-white.csv` file, relates to the white variants of the Portuguese “Vinho Verde” wine. It provides the physicochemical (inputs) and sensory (output) variables. The dataset consists of characteristics of white wine (e.g., alcohol content, density, amount of citric acid, pH, etc.), with the target variable “quality” representing the wine rating. The target variable “quality” ranges from 3 to 9, where a higher rating indicates better wine quality. The classes are ordered and not balanced (e.g., there are many more normal wines than excellent or poor ones).
 
    - **Input Variables**:
-     - Fixed acidity
-     - Volatile acidity
-     - Citric acid
-     - Residual sugar
-     - Chlorides
-     - Free sulfur dioxide
-     - Total sulfur dioxide
-     - Density
-     - pH
-     - Sulphates
-     - Alcohol
+     11 Wine features
    
    - **Output Variable**: 
      - “Quality” representing the rating of wine, ranging from 3 to 9.
